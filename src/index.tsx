@@ -1,4 +1,4 @@
-import React, { memo, useMemo } from 'react';
+import React, { useMemo } from 'react';
 import { Formik, FormikConfig, FormikValues } from 'formik';
 import {
   withFormikDevtools,
@@ -30,4 +30,4 @@ const DevToolsFormik = <
   );
 };
 
-export default memo(DevToolsFormik);
+export default DevToolsFormik;
