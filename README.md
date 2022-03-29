@@ -1,6 +1,6 @@
 # DevToolFormik
 
-A wrapped Formik component with formik-devtools-extension injected
+A wrapped [Formik](https://github.com/formium/formik) component with [formik-devtools-extension](https://github.com/petrenkoVitaliy/formik-devtools) injected
 
 ## Description
 
